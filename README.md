@@ -1,5 +1,5 @@
 # AI-diabetes-retinopathy
-This repository contains an AI model for detecting Diabetes Retinopathy through medical images. Diabetes Retinopathy is a serious eye complication that can lead to blindness, particularly in individuals with type 1 or type 2 diabetes. The goal of this project is to enhance the efficiency and accuracy of Diabetes Retinopathy detection using computer vision techniques.
+This repository contains a deep learning model for detecting Diabetes Retinopathy through medical images. Diabetes Retinopathy is a serious eye complication that can lead to blindness, particularly in individuals with type 1 or type 2 diabetes. The goal of this project is to enhance the efficiency and accuracy of Diabetes Retinopathy detection using computer vision techniques.
 
 # Data visualisation
 The dataset of retina images is obtained from Kaggle (https://www.kaggle.com/competitions/aptos2019-blindness-detection). The chart below illustrates the class distribution of the images in this dataset.
